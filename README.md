@@ -109,7 +109,6 @@ plt.title('Laplacian Operator')
 
 ![image](https://github.com/MavillaPranathi/Implementation-of-filter/assets/118343610/abf26c10-bc56-4175-a895-c643155ba1c2)
 
-![image](https://github.com/MavillaPranathi/Implementation-of-filter/assets/118343610/374478ae-2beb-4d84-828b-01a366c2c5ec)
 
 
 #### ii) Using Weighted Averaging Filter
